@@ -10,7 +10,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 app = FastAPI(
-    title="AI Feedback API",
+    title="AI Feedback API-----12",
     version="1.0.0",
     description="Automated AI feedback system for users and admins."
 )
